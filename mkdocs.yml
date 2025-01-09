@@ -20,13 +20,13 @@ markdown_extensions:
 
 theme:
   name: material
-  logo: faridoon.png
-  favicon: faridoon.png
+  logo: logo.png
+  favicon: logo.png
   language: en
   include_search_page: true
   search_index_only: true
   palette:
-    primary: deep purple
+    primary: blue grey
   features:
     - search.suggest
     - search.highlight
@@ -46,7 +46,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/jamesread/faridoon
+      link: https://github.com/technowax/thefoss-for-families-guide
 
     - icon: fontawesome/brands/mastodon
       link: https://mastodon.social/@jamesread
